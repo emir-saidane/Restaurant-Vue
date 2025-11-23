@@ -1,4 +1,6 @@
-[
+{
+  "restaurants":
+  [
   {
     "id": 1,
     "nom": "kasskroute",
@@ -24,3 +26,4 @@
     "menu": ["saumon", "thon", "dorade"]
   }
 ]
+}
