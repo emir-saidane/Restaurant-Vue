@@ -1,11 +1,10 @@
-{"Restaurant":
 [
   {
     "id": 1,
     "nom": "kasskroute",
     "typeCuisine": "Tunisienne",
     "note": 4.5,
-    "photo": "/assets/r2.jpg", 
+    "photo": "/assets/r2.jpg",
     "menu": ["Couscous", "Brik"]
   },
   {
@@ -25,4 +24,3 @@
     "menu": ["saumon", "thon", "dorade"]
   }
 ]
-}
